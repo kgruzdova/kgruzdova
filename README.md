@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Kseniia - Vibe Coder
+Я собираю АІ-ботов. Фокус — Telegram, OpenAI.
 
-<!--
-**kgruzdova/kgruzdova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current focus: АІ-агенты, Telegram-инфраструктура
+Stack: Python - Flask/FastAPI - Aiogram - PostgreSQL - OpenAI API
 
-Here are some ideas to get you started:
+Tech & Tools
+Backend: Python, Flask, FastAPI
+Bots: Aiogram 3, Telegram Bot API
+Data & Infra: PostgreSQL, Docker (по необходимости)
+AI: OpenAI API, LLM-промптинг, генерация текстов, speech-to-text
+Other: Git, GitHub Actions, Linux, CI/CD базового уровня
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selected Projects
+
+
+GitHub Stats
+GitHub Stats Top Langs
+
+Contacts
+Telegram: @your_username
+Email: daniil.vibe.coder@example.com
