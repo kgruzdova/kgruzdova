@@ -3,7 +3,7 @@
 Я собираю **AI-ботов**, автоматизации.  
 Фокус — Telegram, OpenAI.
 
-- **Current focus**: AI-агенты, Telegram-инфраструктура
+- **Current focus**: AI-инструменты · чат-боты · лендинги · генераторы контента
 - **Stack**: Python · Flask / FastAPI · Aiogram · PostgreSQL
 
 ---
